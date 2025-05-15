@@ -12,6 +12,12 @@
 
 </div>
 
+![Overall](./assets/Overall.png)
+*Overall process of CheckEval. CheckEval consists of three stages: (1) Defining Dimensions of Evaluation,
+where humans select specific dimensions and define sub-dimensions; (2) Checklist Generation, which incorporates
+two augmentation methods—question diversification (green) and elaboration (blue); and (3) Checklist-based
+Evaluation, where the model responds to the checklist with yes/no answers.*
+
 ## Abstract
 
 Existing LLM-as-a-Judge approaches for evaluating text generation suffer from rating inconsistencies, with low agreement and high rating variance across different evaluator models. We attribute this to subjective evaluation criteria combined with Likert scale scoring in existing protocols. To address this issue, we introduce CheckEval, a checklist-based evaluation framework that improves rating reliability via decomposed binary questions. Through experiments with 12 evaluator models across multiple datasets, we first demonstrate that CheckEval strongly correlates with human judgments, improving the average correlation with human judgments by 0.10. More importantly, CheckEval dramatically improves the average agreement across evaluator models by 0.45 and reduces the score variance. CheckEval scores furthermore have the benefit of being more interpretable because it decomposes evaluation criteria into traceable binary decisions, allowing analyses of specific attributes driving quality judgments.

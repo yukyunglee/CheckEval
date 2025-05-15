@@ -8,7 +8,7 @@
 
 ¹Boston University, ²SK Telecom, ³Seoul National University, ⁴KAIST, ⁵NAVER
 
-*Equal contribution, ᵏCo-second authors, †Corresponding authors
+*Equal contribution, ^Co-second authors, †Corresponding authors
 
 </div>
 

@@ -13,10 +13,13 @@
 </div>
 
 ![Overall](./assets/Overall.png)
-*Overall process of CheckEval. CheckEval consists of three stages: (1) Defining Dimensions of Evaluation,
+<div align="center">
+<small><i>Overall process of CheckEval. CheckEval consists of three stages: (1) Defining Dimensions of Evaluation,
 where humans select specific dimensions and define sub-dimensions; (2) Checklist Generation, which incorporates
 two augmentation methods—question diversification (green) and elaboration (blue); and (3) Checklist-based
-Evaluation, where the model responds to the checklist with yes/no answers.*
+Evaluation, where the model responds to the checklist with yes/no answers.</i></small>
+</div>
+
 
 ## Abstract
 

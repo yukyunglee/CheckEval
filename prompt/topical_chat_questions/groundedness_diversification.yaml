@@ -1,0 +1,18 @@
+definition:
+  topical_chat: Given the fact that the response is conditioned on, how well does the response use that fact?
+
+sub_aspect:
+  Relevance:
+    Does the response appropriately address the preceding question or statement?
+    Does the answer provide new information while maintaining the flow of the conversation?
+    Does it effectively utilize the key information that has been mentioned in the conversation?
+    Does the response avoid irrelevant information that detracts from the main topic?
+    Does the response focus on the most important facts related to the user's query?
+    Is the response structured in a way that naturally incorporates the grounded information into the conversation?
+
+  Consistency:
+    Does the response remain consistent with previous utterances?
+    Does it avoid contradicting previously provided information?
+    Does the response avoid adding unsupported or speculative information that could contradict the grounded facts?
+    Is the response consistent with the external factual information provided earlier in the dialogue?
+    Does the response avoid diverging from the grounded fact while staying focused on the topic at hand?

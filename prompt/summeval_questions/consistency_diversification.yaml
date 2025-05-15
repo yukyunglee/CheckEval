@@ -1,0 +1,25 @@
+definition: 
+  summeval: the factual alignment between the summary and the summarized source. A factually consistent summary contains only statements that are entailed by the source document. Annotators were also asked to penalize summaries that contained hallucinated facts.
+
+sub_aspect:
+   Factual Consistency:
+      Does the summary accurately represent the facts from the source?
+      Are the key details (names, dates, locations) in the summary consistent with those in the source document?
+      Does the summary avoid exaggerating or distorting the factual information provided in the source?
+      Does the summary avoid misinterpreting numerical or statistical data from the source?
+      Are causal relationships in the summary aligned with the source's explanation of events or processes?
+
+   No New Information:
+      Does the summary avoid introducing information not present in the original source?
+      Does the summary avoid including speculative or hypothetical statements that were not in the original source?
+      Does the summary refrain from adding personal opinions or conclusions not found in the source?
+      Does the summary avoid combining unrelated facts from the source to imply a new conclusion?
+      Does the summary avoid using synonyms or rephrased sentences that change the meaning of the original information?
+
+   Contextual Accuracy:
+      Does the summary preserve the original purpose or intent of the source document?
+      Does the summary maintain the original tone or sentiment of the source document?
+      Does the summary preserve the logical flow and sequence of events or arguments in the source?
+      Does the summary avoid removing context that alters the meaning of key statements from the source?
+      Is the intended audience or perspective of the source document maintained in the summary?
+

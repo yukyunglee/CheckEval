@@ -1,0 +1,23 @@
+definition:
+  topical_chat: Is the response dull or interesting?
+
+sub_aspect:
+  Interest Level:
+    Does the response capture interest or intrigue, making the conversation more engaging?
+    Does the response actively contribute to keeping the conversation lively and engaging?
+    Does the response introduce new, unexpected information or ideas that pique the user’s curiosity?
+    Is the response personalized or tailored to the specific details of the conversation?
+    Does the response encourage the user to continue the conversation by prompting them to share their thoughts or ask questions?
+    Is the tone of the response dynamic or enthusiastic, contributing to a more vibrant conversation?
+
+  Informative:
+    Does the response add meaningful value to the conversation?
+    Does the response provide context or details that clarify or enrich the topic being discussed?
+    Is the response concise while still delivering relevant and substantial information to the conversation?
+    Does the response balance factual information with conversational flow, avoiding overwhelming the user with excessive data?
+
+  Emotional Engagement:
+    Is the response friendly, polite, and empathetic?
+    Does the response acknowledge or validate the user’s emotions, making the conversation feel more supportive?
+    Is the response playful or humorous, helping to build a lighter and more engaging interaction?
+    Does the response use inclusive language that fosters a sense of connection or rapport with the user?

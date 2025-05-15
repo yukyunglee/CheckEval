@@ -1,0 +1,14 @@
+definition: 
+  summeval: selection of important content from the source. The summary should include only important information from the source document. Annotators were instructed to penalize summaries which contained redundancies and excess information.
+
+sub_aspect:
+  Content Coverage:
+    Does the summary encapsulate all critical points of the source document?
+  Topic Consistency:
+    Does the summary maintain the main topic of the source?
+  Consistent Use of Terminology:
+    Does the summary use the same terminology or jargon as the source?
+  Use of Key Terms and Phrases:
+    Does the summary incorporate key terms and phrases from the source material effectively?
+  Importance:
+    Is each point mentioned in the summary important to the overall understanding of the original text?

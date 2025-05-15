@@ -1,0 +1,19 @@
+definition: 
+  summeval: the collective quality of all sentences. The summary should be well-structured and well-organized. The summary should not just be a heap of related information, but should build from sentence to sentence to a coherent body of information about a topic.
+
+sub_aspect:
+    Topic Maintenance:
+        Does the summary consistently focus on the central topic without deviating into unrelated areas?
+        Are there any sentences in the summary that introduce irrelevant information that detracts from the central topic? 
+        Does each sentence in the summary contribute meaningfully to the central topic without redundant information?
+
+    Logical Flow:
+        Does the summary present information in a logical order?
+        Does the summary avoid abrupt transitions between sentences or ideas?
+        Do sentences naturally build on each other to enhance understanding of the central topic? 
+        Is each piece of information introduced at an appropriate point in the summary, avoiding unnecessary backtracking or repetition?
+
+    Consistent Point of View:
+        Is the point of view or perspective in the summary consistent with the source?
+        Does the summary maintain a consistent tone and perspective throughout? 
+        Are pronouns and references used consistently to avoid confusion about the subject or entities being discussed?

@@ -1,0 +1,19 @@
+definition:
+  topical_chat: Does the response serve as a valid continuation of the preceding conversation?
+
+sub_aspect:
+  Logical Flow:
+    Does the response logically follow from the earlier part of the conversation, maintaining a clear flow of ideas?
+    Does the response avoid introducing irrelevant or confusing information that disrupts the flow of ideas?
+    Does the response build on previous statements or questions in a way that clearly advances the conversation?
+    Does the response respect the turn-taking nature of dialogue, avoiding abrupt topic changes?
+
+  Continuity:
+    Does the response stay consistent with the topic discussed in the previous dialogue?
+    Does the response integrate smoothly with the ongoing conversation, ensuring a coherent progression?
+
+  Relevance:
+    Is the response directly relevant to the content and context of the previous dialogue?
+    Does the response stay focused on the core subject matter discussed, without introducing unrelated details?
+    Does the response address or acknowledge any open-ended questions or statements made earlier in the conversation?
+    Does the response reflect an understanding of the specific details or context discussed in prior dialogue turns?

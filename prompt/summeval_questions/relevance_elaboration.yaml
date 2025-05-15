@@ -1,0 +1,39 @@
+definition: 
+  summeval: selection of important content from the source. The summary should include only important information from the source document. Annotators were instructed to penalize summaries which contained redundancies and excess information.
+
+sub_aspect:
+   Content Coverage:
+      Does the summary encapsulate all critical points of the source document?
+      Does the summary include all major events covered in the source document?
+      Are all of the key arguments from the source document included in the summary?
+      Does the summary cover any pivotal data points introduced in the source document?
+      Are the main findings or conclusions of the source document included in the summary?
+      Does the summary cover the primary topics discussed in the source document?
+
+   Topic Consistency:
+      Does the summary maintain the main topic of the source?
+      Is the central theme of the source document preserved in the summary?
+      Does the summary avoid diverging into unrelated topics not present in the source document?
+      Does the narrative focus of the summary remain consistent with the source document?
+      Are the primary subjects of the source document accurately represented in the summary?
+
+   Consistent Use of Terminology:
+      Does the summary use the same terminology or jargon as the source?
+      Are the specific terms used in the source document consistently applied in the summary?
+      Does the summary avoid introducing new terminology not present in the source document?
+      Are technical or specialized terms from the source document accurately preserved in the summary?
+      Does the summary retain the definitions of key terms as used in the source document?
+
+   Use of Key Terms and Phrases:
+      Does the summary incorporate key terms and phrases from the source material effectively?
+      Are the most important keywords from the source document included in the summary?
+      Does the summary utilize catchphrases or slogans present in the source document?
+      Are the central terms from the source document appropriately emphasized in the summary?
+      Does the summary avoid omission of key terms or phrases critical to understanding the source document?
+
+   Importance:
+      Is each point mentioned in the summary important to the overall understanding of the original text?
+      Are the points included in the summary essential for conveying the main message of the source document?
+      Does the summary exclude trivial or less relevant details from the source document?
+      Do the points in the summary contribute significantly to the reader's comprehension of the source document?
+      Are the points included in the summary reflective of the source document's priorities?

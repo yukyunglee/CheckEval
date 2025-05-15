@@ -1,0 +1,27 @@
+definition:
+  topical_chat: Given the fact that the response is conditioned on, how well does the response use that fact?
+
+sub_aspect:
+  Relevance:
+    Does the response appropriately address the preceding question or statement?
+    Is the response directly related to the preceding question or statement?
+    Does the response clearly refer to or utilize elements from the preceding question or statement?
+    Is the response a logical extension of or reply to the preceding question or statement?
+    Does the answer provide new information while maintaining the flow of the conversation?
+    Does the response introduce relevant new information to the conversation?
+    Does the new information in the response enhance the conversation's topic or context?
+    Does the response seamlessly integrate new information while maintaining conversational coherence?
+    Does it effectively utilize the key information that has been mentioned in the conversation?
+    Does the response incorporate key information from prior conversation turns?
+    Does the response make effective use of details provided earlier in the conversation?
+    Is the key information from previous conversation turns accurately and effectively applied in the response?
+
+  Consistency:
+    Does the response remain consistent with previous utterances?
+    Does the response align with the facts mentioned in previous utterances?
+    Is the tone of the response consistent with that of the preceding conversation?
+    Are the points made in the response logically coherent with earlier contributions to the conversation?
+    Does it avoid contradicting previously provided information?
+    Does the response avoid introducing contradictory facts or assertions?
+    Is there continuity between the assertions made in the response and previously provided information?
+    Does the response respect the factual integrity of previous conversation turns?

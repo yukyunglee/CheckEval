@@ -1,0 +1,30 @@
+definition:
+  topical_chat: Does the response seem to be something that a person would naturally say?
+
+sub_aspect:
+  Avoid repetition:
+    Does the response avoid unnecessary repetition of the same content between sentences?
+    Does each sentence in the response provide new information or perspective?
+    Are there no duplicate phrases or words used within the same sentence?
+    Does the response refrain from reiterating previously stated information without adding new context?
+
+  Context relevance:
+    Are all the sentences relevant to the topic of conversation and used naturally within the context?
+    Does each sentence directly relate to the topic being discussed?
+    Does the response incorporate information presented earlier in the conversation appropriately?
+    Are there no off-topic sentences that diverge from the main subject of discussion?
+    Does the response use contextually appropriate references or examples?
+
+  Clarity:
+    Is the overall message clear and easy to understand?
+    Does each sentence in the response convey a clear meaning?
+    Is the sentence structure straightforward and not overly complex?
+    Are there no ambiguous terms or phrases that could confuse the reader?
+    Is the logical flow from one sentence to the next easy to follow?
+
+  Word choice and tone:
+    Is the tone consistent throughout? Are there no major grammatical errors?
+    Are the words chosen appropriate for the context and audience?
+    Is the tone consistent across all sentences in the response?
+    Does the response avoid any major spelling or grammatical mistakes?
+    Is the punctuation used correctly to enhance readability?

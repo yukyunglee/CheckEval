@@ -1,0 +1,26 @@
+definition: 
+  summeval: the factual alignment between the summary and the summarized source. A factually consistent summary contains only statements that are entailed by the source document. Annotators were also asked to penalize summaries that contained hallucinated facts.
+
+sub_aspect:
+    Factual Consistency:
+        Does the summary accurately represent the facts from the source?
+        Does the summary maintain the correct names of people, places, and organizations as presented in the source?
+        Are the dates and specific time frames mentioned in the summary consistent with the source?
+        Are the numerical figures (e.g., statistics, quantities) mentioned in the summary correct and consistent with the source?
+        Are the events described in the summary in the same order and context as in the source?
+        Does the summary accurately convey quotations and statements from the source?
+
+    No New Information:
+        Does the summary avoid introducing information not present in the original source?
+        Does the summary refrain from adding details that are not mentioned in the source document?
+        Does the summary include only the main points covered in the source without making inferences or assumptions?
+        Are there no sentences in the summary that present new characters or events not found in the source?
+        Does the summary avoid introducing motivations or explanations not supported by the source?
+
+    Contextual Accuracy:
+        Does the summary preserve the original purpose or intent of the source document?
+        Does the summary accurately reflect the main argument or point made in the source document?
+        Is the tone of the summary consistent with the tone of the source (e.g., formal vs. informal)?
+        Are the most important themes or messages of the document captured accurately in the summary?
+        Does the summary avoid reinterpreting or distorting the original context of information from the source?
+        Does the summary maintain the original's point of view without inserting biases or opinions not found in the source?

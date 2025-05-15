@@ -1,0 +1,39 @@
+definition:
+  summeval: the quality of individual sentences. Sentences in the summary should have no formatting problems, capitalization errors or obviously ungrammatical sentences (e.g., fragments, missing components) that make the text difficult to read.
+
+sub_aspect:
+  Formatting:
+    Is the summary free from formatting issues and correctly capitalized throughout?
+    Does every sentence start with a capital letter?
+    Are proper nouns capitalized correctly in the summary?
+    Is the text free from random capitalization errors within sentences?
+    Is the summary free from random bold, italics, or underlining that is not intended for emphasis?
+    Are bullet points, if present, formatted consistently and correctly?
+    Are lists properly punctuated and formatted according to standard conventions?
+
+  Grammar: 
+    Are all sentences grammatically correct and free from errors?
+    Do all sentences have a correct subject-verb agreement?
+    Are the tenses used in the sentences correct and consistent?
+    Are there no run-on sentences?
+    Are there no sentence fragments that lack essential components?
+    Are proper articles ("a," "an," "the") used appropriately in all sentences?
+    Are relative clauses properly introduced with correct relative pronouns?
+    Is punctuation correctly used in all sentences (commas, periods, quotation marks, etc.)?
+
+  Completeness:
+    Are all sentences complete, with no fragments or missing components?
+    Do all sentences contain at least a subject and a verb?
+    Are all clauses within the sentences fully articulated, without missing components?
+    Do any dependent clauses have an independent clause to complete the sentence?
+    Are relative clauses fully completed with necessary nouns or pronouns?
+    Is each sentence self-contained and conveying a complete idea?
+
+  Readability:
+    Is the summary easy to read, without unnecessary complexity?
+    Are the sentences concise without unnecessary wordiness?
+    Is the language used simple and straightforward, avoiding jargon or overly complex terms?
+    Is there a logical flow from one sentence to the next, maintaining coherence and cohesion?
+    Are transitional phrases or words used correctly to connect ideas smoothly?
+    Are there no awkward constructions or phrasing that could confuse the reader?
+    Are sentences effectively varied in structure to maintain reader interest and prevent monotony?

@@ -1,0 +1,12 @@
+definition:
+  summeval: the quality of individual sentences. Sentences in the summary should have no formatting problems, capitalization errors or obviously ungrammatical sentences (e.g., fragments, missing components) that make the text difficult to read.
+
+sub_aspect:
+  Formatting:
+    Is the summary free from formatting issues and correctly capitalized throughout?
+  Grammar:
+    Are all sentences grammatically correct and free from errors?
+  Completeness:
+    Are all sentences complete, with no fragments or missing components?
+  Readability:
+    Is the summary easy to read, without unnecessary complexity?
